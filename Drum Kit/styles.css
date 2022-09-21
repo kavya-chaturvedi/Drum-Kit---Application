@@ -1,0 +1,78 @@
+body {
+   background-color: #0f3460;
+
+}
+
+
+.Container {
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Monoton', cursive;
+  color: #f1fa3c;
+}
+
+button {
+  text-align:center;
+  font-size: 5rem;
+  padding: 3rem;
+  margin: 1rem;
+  font-family: 'Ruge Boogie', cursive;
+  background-color: white;
+}
+
+button:hover {
+  background-color: white;
+
+}
+
+.set{
+  text-align: center;
+  padding: 2rem;
+
+}
+footer{
+  text-align: center;
+  margin-top: 6.5rem;
+  color: #f7ff56;
+}
+
+.w{
+  background: url('images/crash.png') no-repeat top right;
+  background-size: cover;
+
+}
+
+.a{
+  background: url('images/kick.png') no-repeat center;
+}
+
+.s{
+  background: url('images/snare.png') no-repeat center;
+  background-size: cover;
+}
+
+.d{
+  background: url('images/tom1.png') no-repeat center;
+  background-color: white;
+}
+
+.j{
+  background: url('images/tom2.png') no-repeat center;
+  background-color: white;
+}
+
+.k{
+  background: url('images/tom3.png') no-repeat center;
+  background-size: cover;
+
+}
+
+.l{
+  background: url('images/tom4.png') no-repeat center;
+  background-size: cover;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px #DBEDF3;
+  opacity: 0.5;
+}
